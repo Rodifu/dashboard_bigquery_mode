@@ -118,7 +118,10 @@ Forecast-based profitability analysis containing:
   <img width="927" height="369" alt="image" src="https://github.com/user-attachments/assets/6aa5ff9f-6347-4a4a-87e0-f190841db068" />
 
 ---
+## 📹 Video
 
+https://github.com/user-attachments/assets/cd0025d9-ce26-4c18-800b-fe1e8b5398ba
+  
 ## 🧠 Technologies Used
 
 - **BigQuery SQL**
