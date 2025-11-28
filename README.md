@@ -5,7 +5,7 @@ I created a Dashboard in Mode using SQL as language and BigQuery as database. I'
 
 This repository contains a collection of SQL queries used to analyze Starbucks performance data, including revenue metrics, gross margin, customer retention, churn analysis, product profitability, and forecasting trends.
 
-⚠️ The database is all fictitious, just for apresent the skills with SQL and Data Analytics.
+⚠️ The database is entirely fictional, created only to showcase SQL and Data Analytics skills.
 
 All queries were developed for use in **Mode Analytics** and **BigQuery**, following best practices for analytical SQL. Furthermore I can't share a public link of interative Dashboard here, because this function is just for who pay the Mode, however I can share with you if you have a account in Mode, fell free for ask 🤗!
 
